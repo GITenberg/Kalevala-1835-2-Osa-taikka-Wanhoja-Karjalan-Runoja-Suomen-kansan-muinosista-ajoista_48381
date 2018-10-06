@@ -23,6 +23,8 @@ language: fi
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Kalevala (1835) 2. Osa
 
   taikka Wanhoja Karjalan Runoja Suomen kansan muinosista ajoista'
